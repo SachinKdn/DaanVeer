@@ -122,13 +122,13 @@ String orgimage = "empty";
         });
         Log.d("SachinKadian", "last line of orgDetails");
     }
-    @Override
-    protected void onDestroy() {
-        super.onDestroy();
-        String id = FirebaseAuth.getInstance().getUid();
-        FirebaseDatabase.getInstance().getReference().child("Users").child(id).removeValue();
-        Log.d("SachinKadian","onDestroy invoked 12312123132");
-    }
+//    @Override
+//    protected void onDestroy() {
+//        super.onDestroy();
+//        String id = FirebaseAuth.getInstance().getUid();
+//        FirebaseDatabase.getInstance().getReference().child("Users").child(id).removeValue();
+//        Log.d("SachinKadian","onDestroy invoked 12312123132");
+//    }
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);

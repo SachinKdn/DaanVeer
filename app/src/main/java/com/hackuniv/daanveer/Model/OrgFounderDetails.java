@@ -101,13 +101,13 @@ public class OrgFounderDetails extends AppCompatActivity {
         });
 
     }
-    @Override
-    protected void onDestroy() {
-        super.onDestroy();
-        Log.d("SachinKadian","onDestroy invoked 12312123132");
-        FirebaseDatabase.getInstance().getReference().child("Users").child(FirebaseAuth.getInstance().getUid()).removeValue();
-//        FirebaseDatabase.getInstance().getReference().child("Organisation").child(FirebaseAuth.getInstance().getUid()).removeValue();
-    }
+//    @Override
+//    protected void onDestroy() {
+//        super.onDestroy();
+//        Log.d("SachinKadian","onDestroy invoked 12312123132");
+//        FirebaseDatabase.getInstance().getReference().child("Users").child(FirebaseAuth.getInstance().getUid()).removeValue();
+////        FirebaseDatabase.getInstance().getReference().child("Organisation").child(FirebaseAuth.getInstance().getUid()).removeValue();
+//    }
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
