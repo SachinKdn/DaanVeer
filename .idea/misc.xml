@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/drawable/add_alt_1_24.xml" value="0.227" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/drawable/add_image.xml" value="0.2485" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/drawable/age_24x.xml" value="0.2485" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/drawable/arrow_left_24_small.xml" value="0.2485" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/drawable/arrow_right_24x.xml" value="0.2485" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/drawable/bg_checkbox.xml" value="0.2455" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/drawable/bg_et_message.xml" value="0.2485" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/drawable/bg_getstart_button.xml" value="0.2485" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/drawable/bg_home_layout.xml" value="0.2485" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/drawable/bg_icon.xml" value="0.2485" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/drawable/bg_verify_button.xml" value="0.2485" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/drawable/call_24x.xml" value="0.2485" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/drawable/edit_24.xml" value="0.2485" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/drawable/ic_baseline_arrow_right_alt_24.xml" value="0.2485" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/drawable/ic_baseline_call_24.xml" value="0.224" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/drawable/ic_baseline_people_24.xml" value="0.2555" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/drawable/ic_baseline_save_24.xml" value="0.2485" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/drawable/info_24x.xml" value="0.2485" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/drawable/left_arrow.xml" value="0.2485" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/drawable/left_arrow24x.xml" value="0.2485" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/drawable/leftswipe.xml" value="0.2485" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/drawable/mail_24x.xml" value="0.2485" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/drawable/message_24x.xml" value="0.2485" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/drawable/testong.xml" value="0.2415" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/drawable/user_profile.xml" value="0.2485" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/font/kollektif.xml" value="0.28020833333333334" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_about.xml" value="0.25" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_allrequest.xml" value="0.25" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_charity.xml" value="0.48" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_checking.xml" value="0.25" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_delivery_mode.xml" value="0.264" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_donation_skeleton.xml" value="0.264" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_donator.xml" value="0.136" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_donator_data.xml" value="0.25" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_donator_details.xml" value="0.3022670025188917" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_donator_edit_profile.xml" value="0.536" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_donator_history.xml" value="0.264" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_donator_intro.xml" value="0.2" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_donator_profile.xml" value="0.25" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_founder_edit_profile.xml" value="0.23938223938223938" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_help.xml" value="0.24259259259259258" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_in_progress.xml" value="0.25" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_in_progress_donation.xml" value="0.24259259259259258" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_lets_donate.xml" value="0.264" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_org_details.xml" value="0.25" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_org_founder_details.xml" value="0.18769230769230769" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_org_intro.xml" value="0.25" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_org_profile.xml" value="0.264" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_org_skeleton.xml" value="0.264" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_organisation_edit_profile.xml" value="0.25" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_rejected_donation.xml" value="0.25" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_select_org.xml" value="0.25" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_sign_up_phone_number.xml" value="0.264" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_specific_request.xml" value="0.25" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_splash.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/activity_user_type.xml" value="0.264" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/fragment_all_sugestion.xml" value="0.25" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/fragment_donator_profile.xml" value="0.3697813121272366" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/fragment_home.xml" value="0.49074074074074076" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/fragment_org_list.xml" value="0.25" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/fragment_organisation_list.xml" value="0.24259259259259258" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/sample_checkingitem.xml" value="0.6" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/sample_donation_history.xml" value="0.6" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/sample_donation_progress.xml" value="0.25" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/sample_donationlist.xml" value="0.536" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/sample_orglist.xml" value="0.4" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/sample_orglist_fragment.xml" value="0.25" />
+        <entry key="..\:/Android/DaanVeer/app/src/main/res/layout/testing.xml" value="0.72" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
